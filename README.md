@@ -15,3 +15,7 @@ Actualmente curso el ciclo formativo de **Sistemas Microinformáticos y Redes (S
 - Programación en Python  
 - Montaje y configuración de equipos  
 - Resolución de problemas técnicos
+
+Me considero una persona responsable, empática, con facilidad para adaptarme a los cambios y trabajar en equipo.
+
+---
