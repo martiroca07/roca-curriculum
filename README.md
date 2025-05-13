@@ -19,3 +19,18 @@ Actualmente curso el ciclo formativo de **Sistemas Microinformáticos y Redes (S
 Me considero una persona responsable, empática, con facilidad para adaptarme a los cambios y trabajar en equipo.
 
 ---
+
+## Habilidades y Conocimientos
+
+- Pensamiento crítico y estratégico  
+- Escucha activa y empatía  
+- Comunicación efectiva  
+- Resolución de problemas  
+- Innovación y adaptabilidad  
+- Toma de riesgos calculados  
+- Aplicaciones ofimáticas y hojas de cálculo (nivel alto)  
+- Cableado y configuración de redes  
+- Montaje, optimización y programación de equipos informáticos  
+- Sistemas operativos y redes locales  
+
+---
