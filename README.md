@@ -78,3 +78,17 @@ Me considero una persona responsable, empática, con facilidad para adaptarme a 
 - Interés por videojuegos, nuevas tecnologías, IA...  
 
 ---
+
+## Futuro Previsto
+
+En los próximos años, me gustaría seguir expandiendo mis conocimientos en programación y tecnología, con el objetivo de especializarme en áreas como la **inteligencia artificial** y la **bioinformática**.
+
+Planeo continuar con mis estudios en un ciclo formativo o universidad, centrándome en:
+
+- Programación  
+- Redes  
+- Desarrollo de aplicaciones  
+
+Mientras tanto, busco oportunidades para aplicar lo aprendido en entornos reales de trabajo.
+
+---
