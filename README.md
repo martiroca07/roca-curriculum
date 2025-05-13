@@ -34,3 +34,22 @@ Me considero una persona responsable, empática, con facilidad para adaptarme a 
 - Sistemas operativos y redes locales  
 
 ---
+
+## Formación Académica
+
+- **2019–2023** - ESO  
+  *Institut Manuel Raspall*  
+
+- **2023–Actualidad** - SMIX / SMIR  
+  *Escola Ginebró*  
+
+- **2022–2024** - B2 First (English)  
+  *Cambridge School*  
+
+- **2019–2023** - Alemán básico  
+  *Institut Manuel Raspall*  
+
+- **2024–2025** - Introducción a la Ciberseguridad  
+  *Cisco Networking Academy*
+
+---
