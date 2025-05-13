@@ -53,3 +53,20 @@ Me considero una persona responsable, empática, con facilidad para adaptarme a 
   *Cisco Networking Academy*
 
 ---
+
+## Experiencia y Actividades
+
+- **2022** – Equipo ganador del presupuesto COU – *Sala Gamer*  
+  *Ajuntament de Cardedeu*
+
+- **2022** – Clases de robótica para niñ@s de primaria  
+  *Escola Germans Corbella, Cardedeu*
+
+- **2017–2018** – Representante del consejo infantil  
+  *Ajuntament de Cardedeu*
+
+- **2013–Actualidad** – Karate (cinturón marrón)  
+
+- **2020–Actualidad** – Conocimientos sobre plantas insectívoras  
+
+---
