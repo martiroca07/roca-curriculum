@@ -92,3 +92,5 @@ Planeo continuar con mis estudios en un ciclo formativo o universidad, centránd
 Mientras tanto, busco oportunidades para aplicar lo aprendido en entornos reales de trabajo.
 
 ---
+
+📄 [Veure CV en PDF](https://github.com/martiroca07/roca-curriuculum/blob/main/CV.pdf)
