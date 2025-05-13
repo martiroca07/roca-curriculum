@@ -70,3 +70,11 @@ Me considero una persona responsable, empática, con facilidad para adaptarme a 
 - **2020–Actualidad** – Conocimientos sobre plantas insectívoras  
 
 ---
+
+## Cosas que Hago
+
+- Programación en Python, Batch y C++ (desde 2023)  
+- Presentaciones orales en inglés  
+- Interés por videojuegos, nuevas tecnologías, IA...  
+
+---
