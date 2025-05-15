@@ -73,9 +73,17 @@ Me considero una persona responsable, empática, con facilidad para adaptarme a 
 
 ## Cosas que Hago
 
-- Programación en Python, Batch y C++ (desde 2023)  
-- Presentaciones orales en inglés  
-- Interés por videojuegos, nuevas tecnologías, IA...  
+- 2023  Actualidad Programación en Python
+- 2013  Actualidad Karate, cinturón marrón
+- 2020  Actualidad Conocimientos sobre plantas insectívoras
+- 2022 Equipo ganador del presupuesto COU – Sala Gamer
+- Ayuntamiento de Cardedeu
+- 2022 Clases de robótica para niñ@s de primaria
+- Escola Germans Corbella, Cardedeu
+- 2017 2018 Representante del consejo infantil
+- Ayuntamiento de Cardedeu
+- Aficiones: Videojuegos, nuevas tecnologías, IA...
+
 
 ---
 
